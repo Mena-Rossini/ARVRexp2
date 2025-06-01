@@ -80,7 +80,8 @@ public class RollAball : MonoBehaviour
 ```
 ### Output:
 
-![alt text](image.png)
+![2](https://github.com/user-attachments/assets/e948abd7-25f6-4d5f-8419-10dd9ce8f31d)
+
 
 ### Result:
 Thus a 3D application for RollABall objects in unity is developed successfully.
